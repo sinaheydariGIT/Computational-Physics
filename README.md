@@ -9,4 +9,4 @@ For initial stock price of $20.0, expected return and standard deviation of 14% 
 
 
 # quantum.c 
-A program that performs di usion quantum Monte Carlo (QMC) simulation of a one-dimensional electron wave function in a harmonic potential.
+A program that performs diffusion quantum Monte Carlo (QMC) simulation of a one-dimensional electron wave function in a harmonic potential.
